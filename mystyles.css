@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+
+}
+/*if styles dont work..
+1. make  sure you linked styles to page
+2. make sure you  limked them correctly and below original style
+3. make sure you spelled everything correctly
+3b. try !important (before semicolon)
+4. try refreshing page 
+5. try  refreshing  wihtout cache
+6. try a different browser
+7. come to class*/
